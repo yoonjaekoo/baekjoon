@@ -9,6 +9,5 @@ int main(){
     int n;
     cin>>n;
     cout<<s[n-1];
-
-
+    return 0;
 }
