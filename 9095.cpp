@@ -14,6 +14,6 @@ int main(){
     for(int i=0;i<nn;i++){
         int n;
         cin>>n;
-        cout<<dp[i]<<"\n";
+        cout<<dp[n]<<"\n";
     }
 }
