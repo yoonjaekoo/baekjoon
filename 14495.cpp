@@ -3,7 +3,8 @@ using namespace std;
 int main(){
     ios::sync_with_stdio(0);cin.tie(0);
     int n;
-    vector<int> fibonaccibismurihansuyeol(n+1);
+    cin>>n;
+    vector<long long int> fibonaccibismurihansuyeol(n+1);
     fibonaccibismurihansuyeol[0]=1;
     fibonaccibismurihansuyeol[1]=1;
     fibonaccibismurihansuyeol[2]=1;
